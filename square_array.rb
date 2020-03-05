@@ -1,6 +1,6 @@
 def square_array(array)
 
- new_array = ["1","2","3","4"]
+ new_array = []
 
  array.each do |integer|
   new_array << integer ** 2
